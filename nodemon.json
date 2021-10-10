@@ -1,0 +1,6 @@
+{
+    "env": {
+        "mongoDbUrl": "mongodb://localhost:27017/wordrace",
+        "JWT_KEY": "asdfghjkl"
+    }
+}
